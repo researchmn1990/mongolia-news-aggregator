@@ -1,0 +1,1 @@
+# mongolia-news-aggregator
